@@ -2,7 +2,7 @@
 title: Downloading and Installing ReShade
 layout: page
 parent: ReShade Guides
-nav_order: 1
+nav_order: 2
 ---
 
 # Downloading and Installing ReShade
